@@ -28,7 +28,6 @@ In addition to currently pursuing the Doctor of the Science of Law (JSD) at Stan
 📫 **How to reach me**: 
 - Email: asuarezg@stanford.edu
 - LinkedIn: [Andres Felipe Suarez G.](https://www.linkedin.com/in/andrés-felipe-suárez-g-29601070/)
-- GitHub: [afsuarezg](https://github.com/afsuarezg)
 
 
 
