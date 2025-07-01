@@ -9,8 +9,6 @@ I'm currently pursuing a Doctor of the Science of Law (JSD) at Stanford Law Scho
 
 ## What I Do
 
-🔭 **Currently working on** - My JSD research at Stanford Law School, focusing on AI applications in legal technology and access to justice.
-
 🌱 **Currently learning** - Advanced machine learning techniques, natural language processing, and their applications in legal systems.
 
 👯 **Looking to collaborate on** - Projects that leverage AI to improve legal processes, enhance access to justice, and bridge the gap between technology and law.
@@ -21,15 +19,6 @@ I'm currently pursuing a Doctor of the Science of Law (JSD) at Stanford Law Scho
 - Prototyped an AI-powered legal research tool to enhance case law retrieval efficiency
 - Processed approximately 40,000 legal decisions from Colombia's Constitutional Court
 - Implemented embedding methods, search techniques, and evaluation frameworks
-
-
-## What I Bring
-
-- **Legal expertise** - Deep understanding of legal systems and processes
-- **Technical skills** - Proficiency in machine learning, NLP, and AI development
-- **Research experience** - Academic background in law, economics, and computer science
-- **Teaching ability** - Experience training legal professionals on AI applications
-
 
 
 ## Let's Connect
