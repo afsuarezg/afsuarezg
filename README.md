@@ -1,17 +1,16 @@
 # Hi there 👋
 
-I'm **Andrés Felipe Suárez**, a JSD candidate at Stanford Law School with a passion for bridging the gap between legal expertise and artificial intelligence technology.
+I'm **Andrés Felipe Suárez**, a JSD candidate at Stanford Law School with a passion for improving access to legal systems through the use of artificial intelligence.
 
 ## About Me
 
-I'm currently pursuing a Doctor of the Science of Law (JSD) at Stanford Law School, where I'm also completing coursework for a PhD minor in Computer Science. My interdisciplinary background combines law, economics, and AI technology, allowing me to explore how artificial intelligence can address practical challenges in the legal field.
-
+In addition to currently pursuing the Doctor of the Science of Law (JSD) at Stanford Law School, I have also completed coursework required for a PhD minor in Computer Science, and previously obtained bachelor's and master's degrees in both law and economics. My interdisciplinary, combining law, economics, and computer science, allows me to explore how artificial intelligence can address practical challenges in the legal field.
 
 ## What I Do
 
-🌱 **Currently learning** - Advanced machine learning techniques, natural language processing, and their applications in legal systems.
+🌱 **Currently learning** - Training LLMs from scratch, fine-tuning and continued pretraining for domain-specific use cases
 
-👯 **Looking to collaborate on** - Projects that leverage AI to improve legal processes, enhance access to justice, and bridge the gap between technology and law.
+👯 **Looking to collaborate on** - Projects that leverage AI to improve legal processes, enhance access to justice, and bridge the gap between technology and law
 
 ## Key Projects
 
@@ -19,7 +18,6 @@ I'm currently pursuing a Doctor of the Science of Law (JSD) at Stanford Law Scho
 - Prototyped an AI-powered legal research tool to enhance case law retrieval efficiency
 - Processed approximately 40,000 legal decisions from Colombia's Constitutional Court
 - Implemented embedding methods, search techniques, and evaluation frameworks
-
 
 ## Let's Connect
 
@@ -33,5 +31,4 @@ I'm currently pursuing a Doctor of the Science of Law (JSD) at Stanford Law Scho
 - GitHub: [afsuarezg](https://github.com/afsuarezg)
 
 
-⚡ **Fun fact**: I believe every legal decision contains patterns that AI can help us understand - the challenge is building tools that make complex legal information more accessible and actionable!
 
