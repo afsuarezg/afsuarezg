@@ -4,7 +4,7 @@ I'm **Andrés Felipe Suárez**, a JSD candidate at Stanford Law School with a pa
 
 ## About Me
 
-In addition to currently pursuing the Doctor of the Science of Law (JSD) at Stanford Law School, I have also completed coursework required for a PhD minor in Computer Science, and previously obtained bachelor's and master's degrees in both law and economics. My interdisciplinary, combining law, economics, and computer science, allows me to explore how artificial intelligence can address practical challenges in the legal field.
+In addition to currently pursuing the Doctor of the Science of Law (JSD) at Stanford Law School, I have also completed coursework required for a PhD minor in Computer Science, and previously obtained bachelor's and master's degrees in both law and economics. My interdisciplinary background, combining law, economics, and computer science, allows me to explore how artificial intelligence can address practical challenges in the legal field.
 
 ## What I Do
 
