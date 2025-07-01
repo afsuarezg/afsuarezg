@@ -22,13 +22,6 @@ I'm currently pursuing a Doctor of the Science of Law (JSD) at Stanford Law Scho
 - Processed approximately 40,000 legal decisions from Colombia's Constitutional Court
 - Implemented embedding methods, search techniques, and evaluation frameworks
 
-## My Approach
-
-I believe in:
-- **Interdisciplinary thinking** - Combining legal expertise with technical innovation
-- **Practical application** - Developing solutions that address real-world legal challenges
-- **Ethical AI** - Ensuring technology serves justice and improves access to legal systems
-- **Knowledge sharing** - Helping legal professionals understand and leverage AI tools
 
 ## What I Bring
 
@@ -53,6 +46,3 @@ I believe in:
 
 ⚡ **Fun fact**: I believe every legal decision contains patterns that AI can help us understand - the challenge is building tools that make complex legal information more accessible and actionable!
 
----
-
-*Passionate about using AI to enhance legal processes and improve access to justice. Let's explore how technology can make legal systems more efficient, transparent, and accessible for everyone.*
